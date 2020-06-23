@@ -72,6 +72,13 @@
 					flex-wrap:wrap;
 				}
 			}
+		body
+		{
+			background-image:url('1234.jpg'); 
+			background-size:auto;
+			background-repeat:no-repeat;
+		}
+		a::after
 		a::after
 		{
 			content:"\1f607";
