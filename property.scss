@@ -1,19 +1,4 @@
-%message{
-	font-family:san-serif;
-	font-size:18px;
-	font-weight:bold;
-	border:1px solid black;
-	padding:20px;
-	marin:20px;
-}
-.alert alert-success{
-	@extend %message;
-	background-color:orange;
-}
-.alert alert-error{
-	@extend %message;
-	background-color:red
-}
+
 @media (min-width: 500px){
 	body{
 		.container{
@@ -21,11 +6,6 @@
 			flex-wrap:wrap;
 		}
 	}
-	body{
-			background-image:url('1234.jpg'); 
-			background-size:auto;
-			background-repeat:no-repeat;  
-		}
 		a::after{
 			content:"\1f607";
 
@@ -69,12 +49,6 @@ div{
 			display:flex; 
 			flex-wrap:wrap;
 			}
-	
-	body{
-			background-image:url('assasian.jpg'); 
-			background-size:auto;
-			background-repeat:no-repeat;  
-		}
 		a::after{
 			content:"\1f607";
 
