@@ -7,11 +7,7 @@
 			flex-wrap:wrap;
 		}
 	}
-		a::after
-		{
-			content:"\1f607";
 
-		}
 		h1
 			{
 				text-align:center;
@@ -65,16 +61,7 @@
 					flex-wrap:wrap;
 				}
 			}
-			a::after
-			{
-					content:"\1f607";
-
-			}
-
-		/*h1{
-			text-align:center;
-			font-size: 70px;
-			color:darkcyan; */
+		
 		}
 		h2
 		{
