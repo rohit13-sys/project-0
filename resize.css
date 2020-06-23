@@ -13,12 +13,6 @@
 			background-size:auto;
 			background-repeat:no-repeat;
 		}
-		a::after
-		{
-			content:"\1f607";
-
-		}
-
 		h1
 			{
 				text-align:center;
@@ -78,11 +72,7 @@
 			background-size:auto;
 			background-repeat:no-repeat;
 		}
-		a::after
-		{
-			content:"\1f607";
-
-		}
+		
 		h1
 			{
 				text-align:center;
