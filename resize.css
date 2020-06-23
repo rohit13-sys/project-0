@@ -7,6 +7,11 @@
 			flex-wrap:wrap;
 		}
 	}
+		a::after
+		{
+			content:"\1f607";
+
+		}
 
 		h1
 			{
